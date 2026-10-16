@@ -8,7 +8,7 @@
 [![RTX 2050 Mobile](https://img.shields.io/badge/Silicon-RTX_2050_Mobile-76B900?style=for-the-badge)](https://www.nvidia.com)
 [![RLVR + GRPO](https://img.shields.io/badge/RL_Algorithm-RLVR_%2B_GRPO_(G=4)-6366F1?style=for-the-badge)](https://arxiv.org/abs/2402.03300)
 [![Unsloth Accelerated](https://img.shields.io/badge/Serving-Unsloth_Drop--in-8B5CF6?style=for-the-badge)](https://unsloth.ai)
-[![License: Proprietary](https://img.shields.io/badge/License-Proprietary_@Codenuclei-EF4444?style=for-the-badge)](#intellectual-property--security)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 <br/>
 
@@ -249,6 +249,6 @@ Crucible models follow an architectural level-up system:
 
 ---
 
-## 🔒 Intellectual Property & Security
+## License
 
-> **Confidential & Proprietary:** All kernels, algorithms, post-training flywheel architectures, and mathematical formulations contained in this repository are strictly private and proprietary to **@Codenuclei**.
+Released under the MIT License. See [LICENSE](LICENSE).
